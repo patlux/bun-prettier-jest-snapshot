@@ -9,7 +9,8 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun prettier --version
+2.8.8
+# instead v3
 ```
 
-This project was created using `bun init` in bun v1.2.5. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
